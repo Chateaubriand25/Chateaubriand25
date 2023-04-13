@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chateaubriand25
 - 👀 I’m interested in Java and Android développement 
-- 🌱 I’m currently a full développer in Java.
+- 🌱 I’m currently a full développer in Java and android.
 - 💞️ I’m looking to collaborate on more experience 
 - 📫 mbondmellaj@gmail.com
 
